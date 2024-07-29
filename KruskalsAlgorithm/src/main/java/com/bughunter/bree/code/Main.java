@@ -60,9 +60,9 @@ public class Main {
         );
 
         new KruskalAlgorithm<>(graph1).run();
-        new KruskalAlgorithm<>(graph2).run();
+        /*new KruskalAlgorithm<>(graph2).run();
         new KruskalAlgorithm<>(graph3).run();
-        new KruskalAlgorithm<>(graph4).run();
+        new KruskalAlgorithm<>(graph4).run();*/
 
     }
 }
